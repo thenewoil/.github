@@ -8,5 +8,5 @@ Well, if that's the case, you need to look on gitlab instead of github. As The N
 
 Now... Why this is i won't say. But what i can tell you (again) is that The New Oil is (again) on gitlab now. And as such, you (again) need to look there for their repo's instead.
 
-CLear now? Okay... Bye, Bye.
+Clear now? Okay... Bye, Bye.
 
